@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mahyarzahraby
-- 👀 I’m interested in Android developer
-- 🌱 I’m currently learning  ( Android ) 
-- 📫 How to reach me GMAIL:mahyarzahraby00@gmail.com
+- 📫 How to reach me GMAIL:mahyarzahraby.biz@gmail.com
 
 <!---
 mahyarzahraby/mahyarzahraby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
